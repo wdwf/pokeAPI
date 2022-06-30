@@ -24,12 +24,14 @@
 
 ## Preview
 
-### Lista
+### Listagem
+![Captura de tela 2022-06-30 001431](https://user-images.githubusercontent.com/28903617/176586524-a1549b29-c5d8-40a8-b1d6-43df5682e2cb.png)
 
 ### Loading
+![Captura de tela 2022-06-30 001542](https://user-images.githubusercontent.com/28903617/176586539-8a19b5b4-ddf0-412d-bd84-76058167788e.png)
 
 ### Not Found
-
+![image](https://user-images.githubusercontent.com/28903617/176586599-28645d86-2591-4ed1-881d-7fbcc4afed98.png)
 
 ## Tecnologias
 
